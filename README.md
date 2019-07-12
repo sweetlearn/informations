@@ -1,0 +1,2 @@
+# informations
+install django project
