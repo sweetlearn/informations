@@ -1,6 +1,7 @@
 # informations
 install django project
 ## local
+~~~~
 mkdir Desktop/education && cd Desktop/education/
 git init
 python3 -m virtualenv .
@@ -22,6 +23,7 @@ ls
 cd ..
 git add .
 git commit -m "New Project and two apps created"
+~~~~
 ## git Hub
 #### New repo name : school-project
 
@@ -31,3 +33,4 @@ git push -u origin master
 
 > refrshe github repo
 
+~~~~ This is a piece of code in a block ~~~~ ``` This too ```
