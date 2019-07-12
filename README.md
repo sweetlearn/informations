@@ -26,11 +26,10 @@ git commit -m "New Project and two apps created"
 ~~~~
 ## git Hub
 #### New repo name : school-project
-
+```
 git remote add origin https://github.com/sweetlearn/school-project.git
 git remote -v
 git push -u origin master
-
+```
 > refrshe github repo
 
-~~~~ This is a piece of code in a block ~~~~ ``` This too ```
