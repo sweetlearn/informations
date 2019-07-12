@@ -33,3 +33,6 @@ git push -u origin master
 ```
 > refrshe github repo
 
+## static files
+
+
